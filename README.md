@@ -69,5 +69,5 @@ python main.py
 
 ## 🙏 Credits
 
-This project was created by [Vinicyus Da Silva]. If you have any questions or feedback, please feel free to reach out via (https://www.linkedin.com/in/vinicyus-da-silva-b11344247/).
+This project was created by Vinicyus Da Silva. If you have any questions or feedback, please feel free to reach out via https://www.linkedin.com/in/vinicyus-da-silva-b11344247/.
 
