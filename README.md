@@ -48,10 +48,10 @@ python main.py
 ## 🖼️ Screenshots
 
 ### Difficulty Selection
-![Difficulty Selection](screenshots/select_dificult.png)
+![Difficulty Selection](screenshot/select_dificult.png)
 
 ### Game Board
-![Game Board](screenshots/game_board.png)
+![Game Board](screenshot/game_board.png)
 
 
 ## ✨ Features
