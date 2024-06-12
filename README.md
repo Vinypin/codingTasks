@@ -48,8 +48,7 @@ python main.py
 ## 🖼️ Screenshots
 
 ### Difficulty Selection
-![Difficulty Selection](screenshoot/select_dificult.png)
-
+![Difficulty Selection](screenshoot/game_board.png)
 ### Game Board
 ![Game Board](screenshoot/game_board.png)
 
