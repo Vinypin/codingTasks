@@ -11,7 +11,6 @@ Minesweeper Game is a classic puzzle game where the objective is to clear a rect
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [How to Play](#-how-to-play)
-- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Learning Outcomes](#-learning-outcomes)
 - [Credits](#-credits)
@@ -44,13 +43,6 @@ python main.py
   - If the cell does not contain a mine, it will display the number of adjacent mines.
 - Use logic and deduction to clear the board without hitting any mines.
 - The game is won when all non-mine cells are revealed.
-
-## 🖼️ Screenshots
-
-### Difficulty Selection
-![Difficulty Selection](screenshoot/game_board.png)
-### Game Board
-![Game Board](screenshoot/game_board.png)
 
 
 ## ✨ Features
